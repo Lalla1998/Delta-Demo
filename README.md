@@ -1,2 +1,2 @@
 # Delta-Demo
-trial for github repository
+trial for git
